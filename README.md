@@ -50,7 +50,7 @@
 
 <br />
 <br />
-- :bulb: I’m currently learning everithing i can about back end tecnologies...
+- :bulb: I’m currently learning everything i can about back end tecnologies...
 
 <!---
 Schmitz0/Schmitz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
